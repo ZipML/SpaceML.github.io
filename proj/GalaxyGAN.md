@@ -17,7 +17,7 @@ Galaxy GAN 222 333 444 555 666 777 888 999
 
 <tr>
 
-<td><img src="https://www.materialui.co/materialIcons/social/person_grey_192x192.png" width="100"><br/>
+<td><img src="http://macd.com/01about_us/MACD_management/photos_management/lf150px.jpg" width="100"><br/>
 <a href="#">Lucas Fowler</a></td>
 
 <td><img src="https://www.materialui.co/materialIcons/social/person_grey_192x192.png" width="100"><br/>
