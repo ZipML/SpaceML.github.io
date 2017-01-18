@@ -12,8 +12,30 @@ Abstract: Observations of astrophysical objects such as galaxies are limited by 
 
 <img src="https://github.com/SpaceML/SpaceML.github.io/blob/master/gg/walkthrough.png?raw=true" width="600">
 
-We continue to blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
+
+
+
+### Weakly Supervised Neural Network with Astrophysics Knowledge
+
+One limiting factor in training deep neural networks is often the number 
+of training examples one can get. The folklore often tells us “the more, 
+the better.” In GalaxyGAN, one training example is a pair of two images: 
+one clear image without space noise and one that we can observe in the 
+presence of space noise. 
+
+Direct acquisition of such training pairs could be difficult because 
+our ability to get clear images is limited by the throughput of a 
+few high-quality telescopes. Instead, we choose to __weakly supervise__ 
+a neural network to generate training images __automatically__. 
+The observations are simple; astrophysicists have been studying sky 
+noises for hundreds of years, and they already have some physical models 
+to describe their current understanding of such noises. Why not take advantage 
+of such noise models to automatically degrade a relatively clear image as the 
+training set? This observation allows us to generate a large-enough training 
+set in just a couple of hours to train our generative adversarial network. 
+You can see in our paper that the results obtained by this weak supervision 
+mechanism: they are quite good!
 
 
 # Team Members
