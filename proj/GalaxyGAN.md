@@ -8,13 +8,9 @@ projname: "GalaxyGAN"
 Galaxy GAN 222 333 444 555 666 777 888 999
 
 
-
-
 # Team Members
 
-
-<table border="0">
-
+<table style="border:none;">
 <tr>
 
 <td><img src="http://macd.com/01about_us/MACD_management/photos_management/lf150px.jpg" width="100"><br/>
