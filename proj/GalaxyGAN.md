@@ -59,10 +59,10 @@ mechanism: they are quite good!
 <tr>
 
 <td><img src="https://github.com/SpaceML/SpaceML.github.io/blob/master/gg/kevin.png?raw=true" height="150"><br/>
-<a href="http://www.astro.ethz.ch/schawinski">Kevin Schawinski</a></td>
+<a href="http://www.astro.ethz.ch/schawinski">Prof. Kevin Schawinski</a></td>
 
 <td><img src="https://www.bi.id.ethz.ch/personensuche/bildPersonPre.do?pid=38419&tok=a3ad29b3d6ab9abd8a240ad71144e5c8" height="150"><br/>
-<a href="https://www.inf.ethz.ch/personal/ce.zhang/">Ce Zhang</a></td>
+<a href="https://www.inf.ethz.ch/personal/ce.zhang/">Prof. Ce Zhang</a></td>
 
 </tr>
 </table>
