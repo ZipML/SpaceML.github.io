@@ -1,7 +1,8 @@
 ---
 layout: proj
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "GalaxyGAN"
+slogan: "I am an fancy slogan for GalaxyGAN"
+projname: "GalaxyGAN"
 ---
 
-Galaxy GAN 222 333 444 555 666 777 888
+Galaxy GAN 222 333 444 555 666 777 888 999
