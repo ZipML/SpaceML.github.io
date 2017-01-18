@@ -1,6 +1,6 @@
 ---
 layout: proj
-title: "GalaxyGAN"
+title: "SpaceML :: GalaxyGAN"
 slogan: "I am an fancy slogan for GalaxyGAN"
 projname: "GalaxyGAN"
 ---
