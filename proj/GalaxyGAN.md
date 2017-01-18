@@ -26,8 +26,8 @@ presence of space noise.
 
 Direct acquisition of such training pairs could be difficult because 
 our ability to get clear images is limited by the throughput of a 
-few high-quality telescopes. Instead, we choose to __weakly supervise__ 
-a neural network to generate training images __automatically__. 
+few high-quality telescopes. Instead, we choose to *weakly supervise* 
+a neural network to generate training images *automatically*. 
 The observations are simple; astrophysicists have been studying sky 
 noises for hundreds of years, and they already have some physical models 
 to describe their current understanding of such noises. Why not take advantage 
