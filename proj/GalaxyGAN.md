@@ -23,7 +23,7 @@ Galaxy GAN 222 333 444 555 666 777 888 999
 <td><img src="https://www.materialui.co/materialIcons/social/person_grey_192x192.png" width="100"><br/>
 <a href="#">Hantian Zhang</a></td>
 
-<td><img src="https://www.materialui.co/materialIcons/social/person_grey_192x192.png" width="100"><br/>
+<td><img src="https://drive.google.com/file/d/0B6sJJqRDXOFkWGU0WHlycEo0VFU/view" width="100"><br/>
 <a href="#">Gokula Krishnan Santhanam</a></td>
 
 </tr>
