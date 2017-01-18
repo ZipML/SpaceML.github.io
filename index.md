@@ -1,7 +1,6 @@
 ---
 title: Tak Lampang dream tour
 layout: default
-dataFile: tak-lampang
 ---
 
 
