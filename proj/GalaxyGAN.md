@@ -28,7 +28,7 @@ The GAN method presented here opens up the possibility of recovering <i>more</i>
 <table style="border:none;">
 <tr>
 
-<td><img src="http://macd.com/01about_us/MACD_management/photos_management/lf150px.jpg" width="200"><br/>
+<td><img src="https://github.com/SpaceML/SpaceML.github.io/blob/master/gg/lucas.jpg?raw=true" width="200"><br/>
 <a href="#">Lucas Fowler</a></td>
 
 <td><img src="https://github.com/SpaceML/SpaceML.github.io/blob/master/gg/hantian.png?raw=true" width="150"><br/>
