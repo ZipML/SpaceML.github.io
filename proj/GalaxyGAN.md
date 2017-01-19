@@ -35,7 +35,7 @@ The GAN method presented here opens up the possibility of recovering <i>more</i>
 <a href="#">Hantian Zhang</a></td>
 
 <td><img src="https://github.com/SpaceML/SpaceML.github.io/blob/master/gg/gokul.jpg?raw=true" width="150"><br/>
-<a href="#">Gokula K Santhanam</a></td>
+<a href="#">Gokula Santhanam</a></td>
 
 </tr>
 
