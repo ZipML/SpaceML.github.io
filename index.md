@@ -1,5 +1,5 @@
 ---
 layout: main
-title: "SpaceML"
-slogan: "Shifting Model-Driven Astrophysics to Data-Driven Astrophysics"
+title: "ZipML"
+slogan: "End-to-end Bitwise Machine Learning, on Modern Hardware"
 ---
